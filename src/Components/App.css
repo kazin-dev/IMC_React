@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+
+}
+
+#root {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.containerform{
+  margin-left: 39%;
+}
+
+.containerTabela{
+  display: block;
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  margin-left: 31%;
+  margin-bottom: 30px;
+}
+
+li{
+  padding-right: 50px;
+  list-style: none;
+  background-color: aliceblue;
+}
+
+td{
+  border: solid black 1px;
+  padding: 18px;
+}
+
+h2{
+  margin-bottom: 10px;
+}
+
+input{
+  display: block;
+  margin-bottom: 30px;
+  border-radius: 12px;
+  padding: 10px;
+
+}
+
+form{
+  display: block;
+  margin-left: 10px;
+}
